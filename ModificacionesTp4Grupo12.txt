@@ -1,0 +1,5 @@
+*AccionNuevaPer .Lin 68 = faltaba ../ en . 
+*AccionBuscarPer . Lin 60 = borro la var ya que al no exister no el array no puede acceder al msjerror
+*nuevoAuto.js . Lin 34=
+*Persona.php. y Auto.php = saque el static
+*ActualizarDatosPersona footer
